@@ -3,8 +3,7 @@
 #### Technical Skills: Python, SQL, R
 
 ## Education
-- GCE A-Level | Innova Junor College 
-- Bachelor of Business Management (Major in Quantitative Finance) | Singapore Management University
+- Bachelor of Business Management (Major in Quantitative Finance) | Singapore Management University (SMU)
 
 ## Work Experience
 **Summer Investment Analyst @ Hawksburn Capital (May 2023 - October 2023)**
