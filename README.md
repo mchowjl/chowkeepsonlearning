@@ -1,4 +1,4 @@
-# Aspiring Data Analyst
+# From Finance to Data, Personal Portfolio
 
 #### Technical Skills: Python, SQL, R, Power BI, Excel
 
