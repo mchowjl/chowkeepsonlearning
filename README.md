@@ -1,6 +1,6 @@
 # Data Enthusiast Armed With Business & Finance Capabilities
 Data Collection, Data Cleaning, Data Exploration, Data Visualization, Story Telling
-#### Technical Skills: Python, SQL, R, Power BI, Excel
+#### Technical Skills: Python, SQL, R, Tableau, PowerBi, Excel
 
 ## Education
 - Bachelor of Business Management (Major in Quantitative Finance) | Singapore Management University (SMU)
