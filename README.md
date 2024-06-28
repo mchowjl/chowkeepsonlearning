@@ -1,5 +1,5 @@
-# From Finance to Data, Personal Portfolio
-
+# Data Enthusiast Armed With Business & Finance Capabilities
+#### Data Collection, Data Cleaning, Data Exploration, Data Visualization, Story Telling
 #### Technical Skills: Python, SQL, R, Power BI, Excel
 
 ## Education
